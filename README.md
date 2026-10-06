@@ -6,6 +6,8 @@ GRLS Do helps women discover, book and attend events, while giving organisers th
 
 > **Production source code is private.** This repository is a showcase only: it contains documentation, diagrams and screenshots.
 
+![GRLS Do web home](docs/screenshots/web-home.png)
+
 ## Tech stack
 
 React Native / Expo · Next.js · TypeScript · Supabase (Postgres) · Stripe · Vercel · GitHub Actions
@@ -22,6 +24,12 @@ React Native / Expo · Next.js · TypeScript · Supabase (Postgres) · Stripe ·
 - Birthday Mode with personalised event discovery
 - Different fee logic for GRLS Do Originals, third-party paid events and free events
 - CI/CD pipeline using GitHub Actions with controlled production deployments
+
+## Screenshots
+
+| iOS app: Discover | Web: Explore events | Web: For hosts |
+| --- | --- | --- |
+| <img src="docs/screenshots/app-discover.png" width="220" alt="iOS Discover screen"> | <img src="docs/screenshots/web-explore.png" width="360" alt="Web explore page"> | <img src="docs/screenshots/web-for-hosts.png" width="360" alt="Web for hosts page"> |
 
 ## Architecture
 
